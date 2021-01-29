@@ -16,7 +16,7 @@ Or Visit the website live (it might stop working because I use unpaid version of
 https://quirky-leavitt-2bf008.netlify.app/
 
 ## Technologies used:
-* #### React.js React Hooks for frontend framework
+* #### React.js and React Hooks(useReducer, useContext) for frontend framework
 * #### Github API to find users.
 
 ## Version Control:
