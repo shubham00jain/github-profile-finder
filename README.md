@@ -6,7 +6,7 @@ Steps to run this website in your local:
 
 1. Clone this repository in your local using git clone [url of this repository]
 
-2. Install the dependencies using npm install
+2. Install the dependencies using `npm install`
 
 3. Run `npm start` to open the application.
 
